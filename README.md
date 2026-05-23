@@ -1,4 +1,4 @@
-# Helloo I'm Tran² :)! 
+# Helloo I'm Tran² :)
 
 CS @ Cornell Engineering, minor in Business.
 
