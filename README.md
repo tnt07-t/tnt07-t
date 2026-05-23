@@ -2,9 +2,11 @@
 
 CS @ Cornell Engineering, minor in Business.
 
-I build full-stack and backend systems that actually ship! I've worked on apps with 7k+ downloads and research that matters.
+I build full-stack and backend systems that actually ship! 
 
-Currently: 💻 building software @ AppDev & SupplyBistro, 🔬 researching graph routing @ uTECH, exploring ML for keyboard boundary adaptation, and craving pho 🍜
+Apps with 7k+ downloads and research that matters.
+
+Currently: 💻 building software @ AppDev & SupplyBistro, 🔬 researching graph routing @ uTECH, exploring ML for keyboard boundary adaptation, and craving pho.. 🍜
 
 ---
 
@@ -43,5 +45,5 @@ Tools I work with, and more!
 ---
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tran-tran-cornell) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tnt54@cornell.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tran-tran-cornell) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tnt54@cornell.edu) [![Coffee Chat](https://img.shields.io/badge/Coffee%20Chat-00A2FF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/tnt54-cornell)
 
