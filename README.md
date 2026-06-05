@@ -6,7 +6,7 @@ I build full-stack and backend systems that actually ship!
 
 Apps with 7k+ downloads and research that matters.
 
-Currently: 💻 building software @ AppDev & SupplyBistro, 🔬 researching graph routing @ uTECH, exploring ML for keyboard boundary adaptation, and craving pho.. 🍜
+Currently: 💻 building @ AppDev & SupplyBistro, 🔬 researching graph routing @ uTECH, exploring ML for keyboard boundary adaptation, and craving pho.. 🍜
 
 ---
 
