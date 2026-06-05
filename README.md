@@ -38,7 +38,7 @@ Tools I work with, and more!
 ### 🚀 What I'm Up To
 
 - 💻 Backend Engineer @ **Cornell AppDev** — serving 15,000+ users across Python & Go services
-- 💼 Full-stack Engineer Intern @ **SupplyBistro** — dev & QA testing at a fast-moving B2B SaaS startup serving SMBs
+- 💼 Full-stack Engineer Intern @ **SupplyBistro** — dev & QA at a fast-moving B2B SaaS startup serving SMBs
 - 🔬 Researcher @ **uTECH Lab** — Building the backend for Pareto-ptimal graph routing for commuter pollution exposure
 - 📚 TA for **CS 1998** @ Cornell — teaching APIs, databases, and DevOps to 100+ students 
 
