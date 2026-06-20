@@ -1,6 +1,6 @@
 # Helloo I'm Tran² :)
 
-CS @ Cornell Engineering, minor in Business.
+CS @ Cornell Engineering, minor in AI & Business.
 
 I build full-stack and backend systems that actually ship! 
 
