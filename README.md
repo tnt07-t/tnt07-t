@@ -40,7 +40,7 @@ Tools I work with, and more!
 ### 🚀 What I'm Up To / Have Done
 
 - 💻 Backend Engineer @ **Cornell AppDev** — serving 15,000+ users across Python & Go services
-- 🔬 Researcher @ **uTECH Lab** — Shipping the backend for Pareto-ptimal graph routing for commuter pollution exposure
+- 🔬 Researcher @ **uTECH Lab** — Shipping & deploying graph routing & user services for travel-pollution exposure app
 - 📚 TA for **CS 1998** @ Cornell — Teaching APIs, databases, and DevOps to 100+ students
 - 💼 AI Engineer Intern @ **FPT Software** -  Building internal AI platform automating customized workflows for 40,000 employees
 - 💼 Full-stack Engineer Intern @ **SupplyBistro** — Dev & QA at a fast-moving B2B SaaS startup serving SMBs
