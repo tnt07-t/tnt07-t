@@ -2,11 +2,9 @@
 
 CS @ Cornell Engineering, minor in AI & Business.
 
-I build full-stack and backend systems that actually ship! 
-
 Apps with 7k+ downloads and research that matters.
 
-Currently: 💻 building @ AppDev & SupplyBistro, 🔬 researching graph routing @ uTECH, exploring ML for keyboard boundary adaptation, and craving pho.. 🍜
+Currently: 💻 building backend @ AppDev, 🔬 researching graph routing @ uTECH, exploring ML-application projects, and craving pho.. 🍜
 
 ---
 
@@ -31,19 +29,21 @@ Tools I work with, and more!
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)|
 
-
+**ML**
+![PyTorch](https://shields.io)
+![Hugging Face](https://shields.io)
 
 ---
 
 ### 🚀 What I'm Up To / Have Done
 
 - 💻 Backend Engineer @ **Cornell AppDev** — serving 15,000+ users across Python & Go services
-- 💼 Full-stack Engineer Intern @ **SupplyBistro** — Dev & QA at a fast-moving B2B SaaS startup serving SMBs
-- 💼 AI Engineer Intern @ **FPT Software** -  Building internal AI platform automating customized workflows for 60,000 employees
-- 🔬 Researcher @ **uTECH Lab** — Shipping the backend for Pareto-ptimal graph routing for commuter pollution exposure
-- 📚 TA for **CS 1998** @ Cornell — Teaching APIs, databases, and DevOps to 100+ students 
+- - 🔬 Researcher @ **uTECH Lab** — Shipping the backend for Pareto-ptimal graph routing for commuter pollution exposure
+- 📚 TA for **CS 1998** @ Cornell — Teaching APIs, databases, and DevOps to 100+ students
+- 💼 AI Engineer Intern @ **FPT Software** -  Building internal AI platform automating customized workflows for 40,000 employees
+- - 💼 Full-stack Engineer Intern @ **SupplyBistro** — Dev & QA at a fast-moving B2B SaaS startup serving SMBs
 
 ---
 ### 📫 Reach Me
