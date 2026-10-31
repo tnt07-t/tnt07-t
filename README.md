@@ -32,8 +32,8 @@ Tools I work with, and more!
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)|
 
 **ML**
-![PyTorch](https://shields.io)
-![Hugging Face](https://shields.io)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
