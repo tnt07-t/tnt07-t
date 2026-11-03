@@ -4,7 +4,7 @@ CS @ Cornell Engineering, minor in AI & Business.
 
 Apps with 7k+ downloads and research that matters.
 
-Currently 💻 building backend @ AppDev, 🔬 researching graph routing @ uTECH, exploring ML-application projects, and craving pho.. 🍜
+Currently 💻 building backend @ AppDev, 🔬 researching graph routing @ uTECH, exploring ML-projects, and craving pho.. 🍜
 
 ---
 
