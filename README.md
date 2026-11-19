@@ -1,6 +1,6 @@
 # Hello, I'm Tran² :)
 
-CS @ Cornell Engineering, minor in AI & Business.
+CS @ Cornell Engineering, minor in AI. Focus on Backend Development, Infrastructure, and ML
 
 Apps with 7k+ downloads and research that matters.
 
